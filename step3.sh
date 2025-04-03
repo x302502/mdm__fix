@@ -1,0 +1,1 @@
+sudo profiles show -type enrollment
