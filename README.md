@@ -11,5 +11,5 @@ curl -L https://raw.githubusercontent.com/x302502/mdm__fix/master/step3.sh -o st
 curl -L https://raw.githubusercontent.com/x302502/mdm__fix/master/step4.sh -o step4.sh
 curl -L https://raw.githubusercontent.com/x302502/mdm__fix/master/step5.sh -o step5.sh
 curl -L https://raw.githubusercontent.com/x302502/mdm__fix/master/step6.sh -o step6.sh
-
+curl -L https://raw.githubusercontent.com/x302502/mdm__fix/master/clear.sh -o clear.sh
 ```
